@@ -8,6 +8,8 @@ HTTP API آموزشی مدیریت درخواست تغییر با .NET؛ قاب�
 [Tasks](specs/001-manage-change-requests/tasks.md).
 وضعیت واقعی اجرا و محدودیت‌ها در [گزارش اعتبارسنجی](artifacts/validation/final.md)
 و [گزارش پروژه](artifacts/validation/project-report.md) ثبت می‌شوند.
+
+[پاسخ‌های مفهومی تکلیف](docs/delivery/assignment-answers.md) نیز در اقلام تحویلی موجود است.
 Constitution همچنان پیش‌نویس است؛ اجرای موفق آزمون، پذیرش انسانی محسوب نمی‌شود.
 
 ## Stack و تصمیم‌های اصلی معماری

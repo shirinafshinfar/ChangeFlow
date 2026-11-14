@@ -34,6 +34,7 @@ Build بدون warning/error و۱۱۲ آزمون موفق اعتبارسنجی �
 | Artifactهای SDD | [پوشهٔ قابلیت](../../specs/001-manage-change-requests/spec.md)، [Constitution](../../.specify/memory/constitution.md)، [Baseline](../../docs/architecture/technical-baseline.md) |
 | سورس قابل ساخت و آزمون | [Solution](../../ChangeFlow.slnx)، `src/` و `tests/` |
 | راهنمای اجرا | [README](../../README.md) |
+| پاسخ‌های مفهومی تکلیف، ارائه‌شده توسط کاربر | [assignment-answers.md](../../docs/delivery/assignment-answers.md) |
 | Analyze واقعی | [analyze.md](analyze.md) و [گزارش واقعی پیش از Implement، بازیابی‌شده](analyze-pre-implement-recovered.md)؛ Findings، تصمیم‌های اصلاحی و تحلیل مجدد |
 | Converge و پیگیری | [converge.md](converge.md)؛ چهار یافته به T061–T064 تبدیل و در Implement جداگانه اصلاح شدند |
 | Build/Test/Validation | [final.md](final.md)، گزارش‌های US و logهای خام همین پوشه |
