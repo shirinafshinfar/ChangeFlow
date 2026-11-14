@@ -1,0 +1,18 @@
+﻿{
+  "version": 1,
+  "parameters": "--vulnerable --include-transitive",
+  "sources": [
+    "https://api.nuget.org/v3/index.json"
+  ],
+  "projects": [
+    {
+      "path": "E:/ai-oroumand/ChangeFlow/src/ChangeFlow.Api/ChangeFlow.Api.csproj"
+    },
+    {
+      "path": "E:/ai-oroumand/ChangeFlow/src/ChangeFlow.Core/ChangeFlow.Core.csproj"
+    },
+    {
+      "path": "E:/ai-oroumand/ChangeFlow/tests/ChangeFlow.Tests/ChangeFlow.Tests.csproj"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChangeFlow.Core/ChangeFlow.Core.csproj" />
+    <Project Path="src/ChangeFlow.Api/ChangeFlow.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChangeFlow.Tests/ChangeFlow.Tests.csproj" />
+  </Folder>
+</Solution>
